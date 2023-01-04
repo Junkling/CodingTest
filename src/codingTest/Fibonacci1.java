@@ -1,4 +1,4 @@
-package CodingTest;
+package codingTest;
 
 /**
  * 피보나치 수열 출력(복습)

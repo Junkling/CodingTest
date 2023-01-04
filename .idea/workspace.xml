@@ -1,11 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b31ed24-da31-4793-bb6e-dfe49b7a80eb" name="Changes" comment="" />
+    <list default="true" id="0b31ed24-da31-4793-bb6e-dfe49b7a80eb" name="Changes" comment="피보나치 복습">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/ColumnSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/CountNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Game369.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/GreatestCommon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Involution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Mode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Overlap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/PrimeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Square1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Star1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/UpperLowerCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Collatz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Fibonacci1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Fibonacci1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Hasad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Hasad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/PhoneNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/PhoneNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Plus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Plus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Plus2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Plus2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Plus3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Plus3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Py.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Py.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Rest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Rest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/SquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/SquareRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/String1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/String1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/XandN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/XandN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/arrTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/ArrTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Star.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Jo8n4VgcQLLKrX6v9JubBq4XtT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -15,9 +65,84 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ddoly/Downloads/muze/muze/build.gradle",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Overlap">
+    <configuration name="Game369" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Game369" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Involution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Involution" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.MultiplicationTable" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Overlap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Overlap" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Star1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Star1" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Overlap" />
+        <item itemvalue="Application.Game369" />
+        <item itemvalue="Application.Involution" />
+        <item itemvalue="Application.Star1" />
+        <item itemvalue="Application.MultiplicationTable" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -27,6 +152,52 @@
       <option name="presentableId" value="Default" />
       <updated>1672733240078</updated>
     </task>
+    <task id="LOCAL-00001" summary="while/for/boolean 알고리즘">
+      <created>1672738900470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672738900470</updated>
+    </task>
+    <task id="LOCAL-00002" summary="피보나치 복습">
+      <created>1672741836642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672741836642</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="while/for/boolean 알고리즘" />
+    <MESSAGE value="피보나치 복습" />
+    <option name="LAST_COMMIT_MESSAGE" value="피보나치 복습" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/codingTest/PhoneNum.java</url>
+          <line>21</line>
+          <properties class="codingTest.PhoneNum" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
