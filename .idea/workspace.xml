@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b31ed24-da31-4793-bb6e-dfe49b7a80eb" name="Changes" comment="알고리즘 기초">
+    <list default="true" id="0b31ed24-da31-4793-bb6e-dfe49b7a80eb" name="Changes" comment="달팽이 예제">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/BiggestRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/BinaryNumberRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/ChangeRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/ComplexRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/FactorialRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/FibonacciRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Hexadecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/PlusMinus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/PlusRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Scale.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/Snail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/Snail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,20 +40,20 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ddoly/Downloads/muze/muze/build.gradle&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ddoly/Downloads/CodingTest",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.Snail">
-    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.Average" />
+}]]></component>
+  <component name="RunManager" selected="Application.BinaryNumberRecursive">
+    <configuration name="BiggestRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.BiggestRecursive" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.Cycle" />
+    <configuration name="BinaryNumberRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.BinaryNumberRecursive" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseBigInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.ReverseBigInt" />
+    <configuration name="ChangeRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.ChangeRecursive" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.ReverseString" />
+    <configuration name="FibonacciRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.FibonacciRecursive" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Snail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.Snail" />
+    <configuration name="PlusRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.PlusRecursive" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Snail" />
-        <item itemvalue="Application.ReverseBigInt" />
-        <item itemvalue="Application.Cycle" />
-        <item itemvalue="Application.Average" />
-        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.BinaryNumberRecursive" />
+        <item itemvalue="Application.BiggestRecursive" />
+        <item itemvalue="Application.FibonacciRecursive" />
+        <item itemvalue="Application.ChangeRecursive" />
+        <item itemvalue="Application.PlusRecursive" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672922827120</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="달팽이 예제">
+      <created>1673272287383</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673272287383</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +196,8 @@
     <MESSAGE value="while/for/boolean 알고리즘" />
     <MESSAGE value="피보나치 복습" />
     <MESSAGE value="알고리즘 기초" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 기초" />
+    <MESSAGE value="달팽이 예제" />
+    <option name="LAST_COMMIT_MESSAGE" value="달팽이 예제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
