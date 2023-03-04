@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b31ed24-da31-4793-bb6e-dfe49b7a80eb" name="Changes" comment="2/1 코테 스터디">
+    <list default="true" id="0b31ed24-da31-4793-bb6e-dfe49b7a80eb" name="Changes" comment="2/6 코테 스터디">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/Select.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingTest/ComplexRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codingTest/ComplexRecursive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +45,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinaryNumberRecursive">
-    <configuration name="BiggestRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.BiggestRecursive" />
+  <component name="RunManager" selected="Application.Insert">
+    <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Bubble" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryNumberRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.BinaryNumberRecursive" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.BubbleSort" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChangeRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.ChangeRecursive" />
+    <configuration name="ComplexRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.ComplexRecursive" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.FibonacciRecursive" />
+    <configuration name="Insert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Insert" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlusRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.PlusRecursive" />
+    <configuration name="Select" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Select" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinaryNumberRecursive" />
-        <item itemvalue="Application.BiggestRecursive" />
-        <item itemvalue="Application.FibonacciRecursive" />
-        <item itemvalue="Application.ChangeRecursive" />
-        <item itemvalue="Application.PlusRecursive" />
+        <item itemvalue="Application.Insert" />
+        <item itemvalue="Application.Select" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.Bubble" />
+        <item itemvalue="Application.ComplexRecursive" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +179,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675243883723</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2/3 코테 스터디">
+      <created>1675350032257</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675350032257</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2/6 코테 스터디">
+      <created>1675672015814</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675672015814</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,7 +213,9 @@
     <MESSAGE value="알고리즘 기초" />
     <MESSAGE value="달팽이 예제" />
     <MESSAGE value="2/1 코테 스터디" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/1 코테 스터디" />
+    <MESSAGE value="2/3 코테 스터디" />
+    <MESSAGE value="2/6 코테 스터디" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/6 코테 스터디" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
