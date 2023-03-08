@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b31ed24-da31-4793-bb6e-dfe49b7a80eb" name="Changes" comment="정렬">
-      <change afterPath="$PROJECT_DIR$/src/codingTest/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codingTest/SequentialSearch.java" afterDir="false" />
+    <list default="true" id="0b31ed24-da31-4793-bb6e-dfe49b7a80eb" name="Changes" comment="탐색(순차, 이진)">
+      <change afterPath="$PROJECT_DIR$/src/codingTest/DfsRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingTest/DfsStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.DfsStack">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingTest.BinarySearch" />
       <module name="CodingTest" />
@@ -58,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.BubbleSort" />
+    <configuration name="DfsRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.DfsRecursive" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.Factorial" />
+    <configuration name="DfsStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.DfsStack" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DfsStack" />
+        <item itemvalue="Application.DfsRecursive" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.SequentialSearch" />
         <item itemvalue="Application.Scale" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677926382319</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="탐색(순차, 이진)">
+      <created>1678191686287</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678191686287</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,7 +229,8 @@
     <MESSAGE value="2/3 코테 스터디" />
     <MESSAGE value="2/6 코테 스터디" />
     <MESSAGE value="정렬" />
-    <option name="LAST_COMMIT_MESSAGE" value="정렬" />
+    <MESSAGE value="탐색(순차, 이진)" />
+    <option name="LAST_COMMIT_MESSAGE" value="탐색(순차, 이진)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
